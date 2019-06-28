@@ -93,7 +93,7 @@ mark {
 }
 h1 {
   color: #151515;
-  font-family: 'Frank Ruhl Libre', serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 36px;
   font-weight: 400;
   line-height: 42px;
@@ -185,7 +185,7 @@ section.share p {
   margin: 0;
 }
 section.author h4 {
-  font-family: 'Frank Ruhl Libre', serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 400;
   margin-bottom: 4px;
 }
@@ -591,7 +591,7 @@ section.footer-author {
 section.author .meta {
   font-size: 12px;
   line-height: 19px;
-  font-family: 'Frank Ruhl Libre', serif;
+  font-family: 'Raleway', sans-serif;
   color: #bbbbbb;
   padding-top: 7px;
   padding-left: 100px;
